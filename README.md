@@ -1,6 +1,6 @@
 # Marketplace
 
-Decentraland's Marketplace
+SmartDev Group's Marketplace
 
 ## Frontend
 
